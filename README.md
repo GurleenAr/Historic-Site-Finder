@@ -5,11 +5,11 @@ Built to motivate Calgarians to further explore and learn about Calgary. Within 
 
 Screenshots of the web application:
 
-![image](https://github.com/GurleenAr/Historic-Site-Finder/assets/156767003/61f706e0-3221-4b96-93e0-564df585ac3a)
-
-
 Login/signup page created by Gurleen Arora:
 ![image](https://github.com/GurleenAr/Historic-Site-Finder/assets/156767003/17057130-1500-432e-bb86-8aba93748915)
+
+![image](https://github.com/GurleenAr/Historic-Site-Finder/assets/156767003/61f706e0-3221-4b96-93e0-564df585ac3a)
+
 
 
 Authors:
